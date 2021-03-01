@@ -1,7 +1,11 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.Master.cs" Inherits="Capstone_TechHW2.Site1" %>
 
 <!DOCTYPE html>
+<style>
+    body{
 
+    }
+</style>
 <html>
 <head runat="server">
     <title></title>
